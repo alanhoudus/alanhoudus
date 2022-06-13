@@ -7,6 +7,10 @@
 I'm Alan, a junior web developer mainly working on the frontend using React.
 
 ## My tools :hammer_and_pick:
+- PHP
+- SQL
+- Typescript
+- Angular
 - React
 - Javascript
 - SCSS
