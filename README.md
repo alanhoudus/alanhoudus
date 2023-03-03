@@ -7,13 +7,28 @@
 I'm Alan, a junior web developer mainly working on the frontend using React.
 
 ## My tools :hammer_and_pick:
-- PHP
-- SQL
-- Typescript
-- Angular
-- React
+
+### On the frontend
+
 - Javascript
-- SCSS
+- React
+- Next.js
+- Redux
+- SCSS & Tailwind
+
+### On the backend
+
+- Python
+- Django
+- PHP
+- Laravel
+- SQL
+
+### Others
+
+- Git, Github & Gitlab
+- Linux
+- Docker
 
 ## My links
 
