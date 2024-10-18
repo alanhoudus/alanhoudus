@@ -16,6 +16,7 @@ I'm a **Full-Stack Web Developer** living in France with almost 3 years of exper
 #### Beyond Web Development:
 
 In addition to web apps, I also enjoy creating scripts for video games. I write **LUA** scripts, focusing on mechanics, systems, and interactions on frameworks like **FiveM**.
+I'm also a huge video games fan, I've played semi-competitively in League of Legends years ago, and now playing more casually !
 
 ---
 
@@ -41,12 +42,6 @@ Feel free to connect with me. I'm always open to new opportunities and collabora
   </a> 
   
 </div>
-
-## About me
-
-- Videogame fan like most developers, you might meet me on Dead by Daylight, Souls games, some League of Legends, and tons more ! 🎮
-- Can't spend a day without watching a movie or a show 🎞️
-- Love to cook and make pastry 🍲
 
 ## Github stats
 
