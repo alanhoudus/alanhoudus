@@ -1,34 +1,26 @@
 # Welcome to my GitHub profile
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
-I'm Alan, a junior web developer mainly working on the frontend using React.
+### Hi, I'm Alan 👋
 
-## My tools :hammer_and_pick:
+I'm a **Full-Stack Web Developer** living in France with almost 3 years of experience building applications and solving problems. I enjoy working across both backend and frontend, constantly honing my skills in various technologies.
 
-### On the frontend
+#### Tools & Technologies I Use:
 
-- Javascript
-- React
-- Next.js
-- Redux
-- SCSS & Tailwind
+- **Backend**: Laravel, Django
+- **Frontend**: Vue, React
+- **Databases**: MySQL
+- **Version Control**: Git, GitHub, GitLab
+- **Deployment**: Linux, DigitalOcean, Forge
 
-### On the backend
+#### Beyond Web Development:
 
-- Python
-- Django
-- PHP
-- Laravel
-- SQL
+In addition to web apps, I also enjoy creating scripts for video games. I write **LUA** scripts, focusing on mechanics, systems, and interactions on frameworks like **FiveM**.
 
-### Others
+---
 
-- Git, Github & Gitlab
-- Linux
-- Docker
+Feel free to connect with me. I'm always open to new opportunities and collaborations.
+
 
 ## My links
 
@@ -46,13 +38,6 @@ I'm Alan, a junior web developer mainly working on the frontend using React.
    href="https://github.com/alanhoudus/"
    >
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
-  </a> 
-  <a 
-   target="_blank"
-   alt="Portfolio"
-   href="https://alanhoudus.surge.sh/"
-  >
-    <img src="https://img.shields.io/badge/-Portfolio-purple?&style=for-the-badge&logo=Portfolio" alt="Portfolio"/>
   </a> 
   
 </div>
